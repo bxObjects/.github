@@ -1,0 +1,32 @@
+#+TITLE: BxObjects: Public ByStar Repo Objects
+#+DATE: <2025-06-28 Sat 20:18>
+#+AUTHOR: Mohsen BANAN
+
+BISOS-PIP is part of ByStar.
+
+The *Libre-Halaal ByStar Digital Ecosystem* (/By* DE/) is an interdisciplinary, and
+ethics-oriented non-proprietary digital ecosystem which challenges the existing
+proprietary American digital ecosystem while operating concurrently alongside
+it. On a global scale, By* provide Internet Application Services which preserve
+autonomy and privacy of the individual. *BISOS*: (/By* Internet Services Operating
+System/) is a unified and universal framework for developing both internet
+services and software-service continuums that use internet services. BISOS is a
+layer on top of Debian. *Blee*: (/BISOS Libre-Halaal Emacs Environment/) is a layer
+on top of Emacs and BISOS, which creates a comprehensive integrated usage and
+development environment. Blee and BISOS are fully integrated. See the "*Nature of
+Polyexistentials*" book for the bigger picture of how all of ByStar fits together.
+
+For bootstraping BISOS, Blee and ByStar; you can start at: https://github.com/bxgenesis/start
+
+Here we produce the basic concepts of BISOS.
+
+* Table of Contents     :TOC:
+-  [[#about-bystar-repo-objects-bro][About ByStar Repo Objects (bro)]]
+
+*  About ByStar Repo Objects (bro)
+
+The structure of ByStar Repo Objects (bro) is same as BPO (ByStar Portable
+Objects), but BRO is contained in a single github repository. In BISOS, BROs can
+be cloned under /bisos/git/bxRepos/bxObjects or as a bro_ account.
+
+ BROs are named bro_
